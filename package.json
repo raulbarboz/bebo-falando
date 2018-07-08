@@ -2,9 +2,11 @@
   "name": "bebo-falando",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cp -r node_modules/bootstrap/dist/* assets && nodemon",
+    "start": "cp -r node_modules/bootstrap/dist/* assets && node app.js"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +17,8 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "http": "0.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
   }
 }

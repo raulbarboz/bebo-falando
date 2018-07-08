@@ -1,0 +1,685 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dNOHry9lIgmdCVecnuoAktcy2c0\"",
+    "pageInfo": {
+        "totalResults": 16,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/skN1pvqhlh4w2R_3VBhMARBv64o\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLlNFbU1CdHVpTGtB",
+            "snippet": {
+                "publishedAt": "2018-07-02T18:46:19.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#bebofalando - Bebida básica, copa do mundo, simbolismo da volta",
+                "description": "Bebo Falando tá de cara nova, e muitas luminosidades.\n\nFaçam perguntas e o Buba irá responder.\n\nProjeto Mi Casa Su Casa\nhttps://www.facebook.com/bandamicasasucasa/\nhttps://www.instagram.com/bandamicasasucasa/\n\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nInstagram:\nhttps://www.instagram.com/raulbarboz/\n\nTwitter:\nhttps://www.twitter.com/bebofaland0/\n\nPlaylist do futuro - Musicas depressivas para animar:\nhttps://open.spotify.com/user/12152736275/playlist/4Noo8yfc1HWSRg6BAS0l3m\n\nE-mail:\nbebofalando@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SEmMBtuiLkA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SEmMBtuiLkA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SEmMBtuiLkA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SEmMBtuiLkA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Pm1CeOMillTSV4spKhkgttDTwkg\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLjZ3SnJEeEl3MzRr",
+            "snippet": {
+                "publishedAt": "2017-09-28T13:20:40.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - 2ª Temporada - Me dê motivos para beber...",
+                "description": "E voltamos, desta vez como segunda temporada. E para esquentar, apenas um chatzinho de leve com alguns motivos para você beber.\n\nVale a pena!\n\nFaçam perguntas e o Buba irá responder.\n\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nInstagram:\nhttps://www.instagram.com/raulbarboz/\n\nTwitter:\nhttps://www.twitter.com/bebofaland0/\n\nE-mail:\nbebofalando@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6wJrDxIw34k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6wJrDxIw34k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6wJrDxIw34k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6wJrDxIw34k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6wJrDxIw34k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6wJrDxIw34k"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/oLhOfdBrQ_b8E-Cq1Nt2Xzah3y0\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLlN0MDdpQmdvQThZ",
+            "snippet": {
+                "publishedAt": "2017-08-29T13:00:02.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Amigos, meditação é tudo!",
+                "description": "Desta vez com o convidado Bruno Guerra abrangemos o campo da meditação. E foi bom hein! Deveríamos todos meditar.\n\nVale a pena!\n\nFaçam perguntas e o Buba irá responder.\n\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nInstagram:\nhttps://www.instagram.com/raulbarboz/\n\nTwitter:\nhttps://www.twitter.com/bebofaland0/\n\nE-mail:\nbebofalando@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/St07iBgoA8Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/St07iBgoA8Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/St07iBgoA8Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/St07iBgoA8Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/St07iBgoA8Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "St07iBgoA8Y"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8lqhPLg2-cW1IBem__8qSk7lyq4\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLmp6djZKRHpzY3dz",
+            "snippet": {
+                "publishedAt": "2017-08-17T13:00:04.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Convidei uma youtuber para o canal e olha no que deu!",
+                "description": "Desta vez superamos a velocidade da lhama, apertamos o passo com nossos chinelos grunge e refizemos a roda. Aprenda a fazer gin tônica, uma bebida para toda a família.\n\nFaçam perguntas e o Buba irá responder.\n\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nInstagram:\nhttps://www.instagram.com/raulbarboz/\n\nTwitter:\nhttps://www.twitter.com/bebofaland0/\n\nE-mail:\nbebofalando@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jzv6JDzscws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jzv6JDzscws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jzv6JDzscws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jzv6JDzscws/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jzv6JDzscws/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jzv6JDzscws"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/lYDPuJgIg0yksDXNVgv5Cst0tIg\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLlQtcFVGSk05M0M4",
+            "snippet": {
+                "publishedAt": "2017-08-24T13:00:01.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Temos que falar de Educação.",
+                "description": "Deu a loka e comecei a falar do sistema de educação. #educadores a culpa não é de vocês. Mas o sistema de ensino/educação tem muito a evoluir.\n\nFaçam perguntas e o Buba irá responder.\n\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nInstagram:\nhttps://www.instagram.com/raulbarboz/\n\nTwitter:\nhttps://www.twitter.com/bebofaland0/\n\nE-mail:\nbebofalando@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T-pUFJM93C8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T-pUFJM93C8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T-pUFJM93C8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T-pUFJM93C8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T-pUFJM93C8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "T-pUFJM93C8"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/KZXqTJkvYf10EUahCZN_B3A_6tg\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLmtoRGNaSV9OOVFF",
+            "snippet": {
+                "publishedAt": "2017-08-31T13:00:07.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Deu Vodka, é Russa é uma delícia.",
+                "description": "A Askov impressionou, é delícia. Aqui é cinema, não tente fazer em casa, não vá se arrepender depois.\n\nFaçam perguntas e o Buba irá responder.\n\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nInstagram:\nhttps://www.instagram.com/raulbarboz/\n\nTwitter:\nhttps://www.twitter.com/bebofaland0/\n\nE-mail:\nbebofalando@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/khDcZI_N9QE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/khDcZI_N9QE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/khDcZI_N9QE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/khDcZI_N9QE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/khDcZI_N9QE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "khDcZI_N9QE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/6T2Yjv66eB-C3deFdRjWpZhivj0\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLjllMHZidU55ekdr",
+            "snippet": {
+                "publishedAt": "2017-08-10T13:00:01.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Catuaba 2.0",
+                "description": "Catuaba quando vem de graça numa fila de um show, aceitamos sem medo. Viver é aceitar as surpresas sem se surpreender tanto.\n\nFaçam perguntas e o buba irá responder.\n\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nInstagram:\nhttps://www.instagram.com/raulbarboz/\n\nTwitter:\nhttps://www.twitter.com/bebofaland0/\n\nE-mail:\nbebofalando@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9e0vbuNyzGk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9e0vbuNyzGk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9e0vbuNyzGk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9e0vbuNyzGk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9e0vbuNyzGk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9e0vbuNyzGk"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ykx7rwsrnBhSWO7I4uPdWEIxhv0\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLktBZERzRmc3Q2VR",
+            "snippet": {
+                "publishedAt": "2017-08-04T00:23:14.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - A nossa vida é um show de trumam",
+                "description": "Convidadas especiais, mais que especiais. Muita bebida, muita loucura, caminhamos em meio a incerteza, nenhuma pauta satisfez. Mas está aí, fizemos a propaganda da Tequiloka, tequila gold.\n\nFaçam perguntas e o buba irá responder.\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nLink para pulseiras:\nhttps://www.youtube.com/watch?v=7GQkBxKTRYM\n\nAmem ou deixe-o.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KAdDsFg7CeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KAdDsFg7CeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KAdDsFg7CeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KAdDsFg7CeQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KAdDsFg7CeQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/bBWjgL3LECdgByuwsvyILxadLBI\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLllTUXBpN2VvUDQw",
+            "snippet": {
+                "publishedAt": "2017-07-28T13:30:00.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Muitas perguntas sem resposta!",
+                "description": "Um pouquinho de Bob Marley, atracação que rola entre esquerda e direita. É ruim para o país. Chega de treta.\n\nDeixe seu comentário sobre esquerda e direita.\nCurtam a nossa página do Facebook:\nhttp://www.facebook.com/bebofalando\n\nbjos",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YSQpi7eoP40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YSQpi7eoP40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YSQpi7eoP40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YSQpi7eoP40/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YSQpi7eoP40/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YSQpi7eoP40"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/l03umVYpMCvyIpMI2CjGBHedkpk\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLlI4dl83a1lmQ0ZN",
+            "snippet": {
+                "publishedAt": "2017-07-20T13:09:54.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - De onde viemos? Vamos refletir.",
+                "description": "É hoje. Precisamos saber de onde viemos. NASA? E aí, qualé, qual foi?  Vocês já pararam para pensar nas letras das músicas, qual o verdadeiro significado.\n\nFaçam perguntas e o buba irá responder.\nCurtam nossa página do facebook:\nhttp://www.facebook.com/bebofalando\n\nLink para pulseiras:\nhttps://www.youtube.com/watch?v=7GQkBxKTRYM\n\nAmem ou deixe-o.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R8v_7kYfCFM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R8v_7kYfCFM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R8v_7kYfCFM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R8v_7kYfCFM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R8v_7kYfCFM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R8v_7kYfCFM"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/IEEMnUWVjNNO-m0lxKOBFQVchl8\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLkhRbFFKV1VOWG1N",
+            "snippet": {
+                "publishedAt": "2017-07-13T15:00:01.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Mario, Heineken, banheiro masculino, tudo gira",
+                "description": "Neste episódio ele dá dicas de como não apagar na balada, as condições do banheiro masculino, e como podemos usar o jogo Mário a nossa favor. \n\nInscrevam-se no nosso canal.\n\nCurtam nossa página\nhttps://www.facebook.com/bebofalando",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HQlQJWUNXmM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HQlQJWUNXmM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HQlQJWUNXmM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HQlQJWUNXmM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HQlQJWUNXmM"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HACsKd68tdk0eQJC6KeBJR6kXj0\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLmt3VFVxTFpTWUVZ",
+            "snippet": {
+                "publishedAt": "2017-07-10T14:32:12.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Catuaba Selvagem e assuntos diversos.",
+                "description": "Finalmente com o(a) convidado(a) especial que tem três nomes.\n\nSensasional, nunca ri tando e me diverti tanto. Quero mais convidados, ou que esta convidada esteja sempre presente.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kwTUqLZSYEY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kwTUqLZSYEY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kwTUqLZSYEY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kwTUqLZSYEY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kwTUqLZSYEY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/zcep5A74pQPb1HaLxlrwTiBQwvk\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLjJ2RUFtTnZpZFBB",
+            "snippet": {
+                "publishedAt": "2017-07-07T01:53:20.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - O vinho mais barato do mercado...",
+                "description": "Vamos falar sobre o que a gente não sabe? SIM. O importante é filosofar e ser feliz...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2vEAmNvidPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2vEAmNvidPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2vEAmNvidPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2vEAmNvidPA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2vEAmNvidPA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ltIqLbBxAzIu4VisAe8Kn7MBlFY\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLkVJYWRCUFJLNjdj",
+            "snippet": {
+                "publishedAt": "2017-07-01T17:04:17.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Cerveja de Chocolate, Skatistas, Uber.",
+                "description": "Justiça, uni duni tê, cerveja de chocolate, muito assunto e loucura.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EIadBPRK67c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EIadBPRK67c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EIadBPRK67c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EIadBPRK67c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EIadBPRK67c"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/5kkgNJh5Xo6917aof8lOk4q-G-0\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLnplZklySG5KN09J",
+            "snippet": {
+                "publishedAt": "2017-06-08T12:38:04.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Pouca bebida, Notícias, Sem Sentido",
+                "description": "Um brinde a todos que não vieram....",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zefIrHnJ7OI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zefIrHnJ7OI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zefIrHnJ7OI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zefIrHnJ7OI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zefIrHnJ7OI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ePGAVJK0dZh-n0ivHsdtQ6A91Vk\"",
+            "id": "VVVoSXFlR2V1UUp0Z0ZfMEp1akM4SEdRLnhpbERSSU1Fa3Ew",
+            "snippet": {
+                "publishedAt": "2017-06-01T22:43:58.000Z",
+                "channelId": "UChIqeGeuQJtgF_0JujC8HGQ",
+                "title": "#BeboFalando - Filosofando, Ayrton Senna, Trens e metrô.",
+                "description": "Bebo e falo, não ligo.\n\nAssista e discuta os mais diversos assuntos barísticos de que você tem interesse.\n\nParticipe, mande sugestões e assuntos e seremos felizes....",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xilDRIMEkq0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xilDRIMEkq0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xilDRIMEkq0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xilDRIMEkq0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bebo Falando",
+                "playlistId": "UUhIqeGeuQJtgF_0JujC8HGQ",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xilDRIMEkq0"
+                }
+            }
+        }
+    ]
+}
