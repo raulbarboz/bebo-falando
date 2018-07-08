@@ -4,6 +4,7 @@ const ejs = require('ejs');
 const bodyParser = require('body-parser');
 const http = require('http');
 const fs = require('fs');
+const PORT = process.env.PORT || 8080
 
 
 require('dotenv').config();
@@ -28,6 +29,5 @@ app.use((req, res) => {
   res.status(404).render('404')
 })
 
-app.listen(3000, () => {
-  console.log('running on 3000');
+app.listen(PORT, () => {
 });
