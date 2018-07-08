@@ -22,7 +22,15 @@ for(i = 0; i < obj.length; i++){
 }
 
 app.get('/', (req, res) => {
-  res.render('home', {ids: objArray});
+  res.render('home', {title: 'home'});
+})
+
+app.get('/videos', (req, res) => {
+  res.render('videos', {ids: objArray, title: 'videos'});
+})
+
+app.get('/contato', (req, res) => {
+  res.render('contato', {title: 'contato'});
 })
 
 app.use((req, res) => {
