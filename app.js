@@ -17,24 +17,17 @@ app.use(device.capture());
 
 var obj = JSON.parse(fs.readFileSync('list.json', 'utf8'));
 var obj = obj.items;
-var objArray = [];
-
-for(i = 0; i < obj.length; i++){
-  objArray.push(obj[i].snippet.resourceId.videoId);
-}
-
-
 
 app.get('/', (req, res) => {
   res.render('home', {title: 'home', device: req.device.type});
 })
 
 app.get('/videos', (req, res) => {
-  res.render('videos', {ids: objArray, title: 'videos', device: req.device.typ});
+  res.render('videos', {videos: obj, title: 'videos', device: req.device.type});
 })
 
 app.get('/contato', (req, res) => {
-  res.render('contato', {title: 'contato', device: req.device.typ});
+  res.render('contato', {title: 'contato', device: req.device.type});
 })
 
 app.use((req, res) => {
