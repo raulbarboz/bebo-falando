@@ -10,11 +10,20 @@
 
 </head>
 <body>
-  <div class="video-background">
-    <div class="video-foreground">
-      <iframe src="https://www.youtube.com/embed/SEmMBtuiLkA?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <% if (device === 'desktop'){ %>
+    <div class="video-background">
+      <div class="video-foreground">
+        <iframe src="https://www.youtube.com/embed/SEmMBtuiLkA?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
     </div>
-  </div>
+    <% } else { %>
+      <div class="video-background">
+        <div class="video-foreground">
+          <img src="bg.png" alt="">
+        </div>
+      </div>
+    <% } %>
+
   <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
     <header class="masthead mb-auto">
       <div class="inner">
